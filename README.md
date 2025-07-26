@@ -1,5 +1,5 @@
 # MSCCNet
-Multi-spectral Class Center Network for Face Manipulation Detection and Localization
+Multi-spectral Class Center Network for Face Manipulation Localization has been accepted by ACM Transactions on Multimedia Computing, Communications, and Applications.
 
 ***
 ### Annotation
